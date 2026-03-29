@@ -386,9 +386,33 @@ Token-bucket and sliding-window rate limiting algorithms implemented for distrib
 
 <div align="center">
 
-![Anand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandtopu&show_icons=true&theme=dark&hide_border=true&count_private=true)
+<!-- Contribution Streak — demolab (highly reliable) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=anandtopu&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anandtopu&layout=compact&theme=dark&hide_border=true&langs_count=8)
+<!-- Activity Graph — reliable Vercel deployment -->
+[![Anand's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anandtopu&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- Profile Summary Cards — alternative to readme-stats -->
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anandtopu&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anandtopu&theme=github_dark" alt="Repos per Language"/>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anandtopu&theme=github_dark" alt="Most Commit Language"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anandtopu&theme=github_dark" alt="Stats"/>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anandtopu&theme=github_dark&utcOffset=-6" alt="Productive Time (CST)"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
