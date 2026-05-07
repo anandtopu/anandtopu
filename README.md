@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anandtopu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anandtopu/)
 [![Credly](https://img.shields.io/badge/Credly-Verified_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/anand-topu/badges)
 [![GitHub followers](https://img.shields.io/github/followers/anandtopu?label=Follow&style=for-the-badge&logo=github)](https://github.com/anandtopu)
+[![Profile views](https://komarev.com/ghpvc/?username=anandtopu&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/anandtopu)
 [![Location](https://img.shields.io/badge/📍-Frisco%2C%20Texas-green?style=for-the-badge)](https://github.com/anandtopu)
 
 </div>
@@ -15,13 +16,14 @@
 
 ## About Me
 
-I'm a **Solution Architect at [EPAM Systems](https://www.epam.com/)** with a focus on AI-powered systems, agentic architectures, and distributed platform engineering. I design and build production-grade AI platforms that bridge the gap between ML research and real-world enterprise deployments.
+I'm a **Solution Architect at [EPAM Systems](https://www.epam.com/)** focused on AI-powered systems, agentic architectures, and distributed platform engineering. I design and ship production-grade AI platforms that bridge the gap between ML research and real-world enterprise deployments.
 
-- 🧠 Designing **multi-agent LLM systems** with LangChain, LangGraph, and the Anthropic Agent SDK
-- 🏗️ Architecting **scalable distributed systems** — FastAPI, Celery, Redis, Cassandra, PostgreSQL, MongoDB
-- 🔍 Building **AI observability & testing intelligence** platforms (see: [QA Insight AI](https://github.com/anandtopu/qainsight-ai))
-- 🤖 Passionate about **agentic AI** — ReAct agents, tool-use, RAG pipelines, and context engineering
-- 📚 Continuous learner: 100 Days of ML, Hugging Face Agents Course, O'Reilly AI Agents
+- 🧠 Designing **multi-agent LLM systems** with LangChain, LangGraph, PydanticAI, Anthropic Agent SDK, and the **A2A protocol**
+- 📚 Building **production RAG** — pgvector hybrid retrieval, layered hallucination detection, per-tenant cost budgets, immutable audit (see: [SentinelRAG](https://github.com/anandtopu/sentinal-rag))
+- 🔍 Shipping **AI observability & testing intelligence** platforms ([QA Insight AI](https://github.com/anandtopu/qainsight-ai), [TestLookup](https://github.com/anandtopu/testlookup))
+- 🏗️ Architecting **scalable distributed systems** — FastAPI, Celery, Temporal, Redis, Cassandra, PostgreSQL, MongoDB, Go
+- 🤖 Deep on **agentic patterns** — ReAct, tool-use, MCP servers, context engineering, A2A interoperability
+- 📚 Continuous learner: 100 Days of ML, Hugging Face Agents Course, O'Reilly AI Systems in Production
 
 ---
 
@@ -30,15 +32,22 @@ I'm a **Solution Architect at [EPAM Systems](https://www.epam.com/)** with a foc
 ### AI / ML
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=graphql&logoColor=white)
+![PydanticAI](https://img.shields.io/badge/PydanticAI-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_SDK-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![A2A](https://img.shields.io/badge/A2A_Protocol-1A73E8?style=flat-square&logo=googlecloud&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-black?style=flat-square&logo=llvm&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logo=databricks&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 ### Backend & APIs
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Temporal](https://img.shields.io/badge/Temporal-000000?style=flat-square&logo=temporal&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ### Databases & Messaging
@@ -52,6 +61,9 @@ I'm a **Solution Architect at [EPAM Systems](https://www.epam.com/)** with a foc
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=red-hat-open-shift&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
 ### Frontend
@@ -269,9 +281,6 @@ I'm a **Solution Architect at [EPAM Systems](https://www.epam.com/)** with a foc
 | Implement Load Balancing on Compute Engine | Nov 2024 |
 | Set Up an App Dev Environment on Google Cloud | Nov 2024 |
 | Text Prompt Engineering Techniques | Nov 2024 |
-| Automate Data Capture at Scale with Document AI | Nov 2024 |
-| Cloud Speech API: 3 Ways | Nov 2024 |
-| Create and Manage Cloud Spanner Instances | Mar 2025 |
 
 </details>
 
@@ -328,34 +337,92 @@ I'm a **Solution Architect at [EPAM Systems](https://www.epam.com/)** with a foc
 
 ## Featured Projects
 
-### 🔬 [QA Insight AI](https://github.com/anandtopu/qainsight-ai)
+### 🧠 AI Systems & Agents
+
+#### 🛡️ [SentinelRAG](https://github.com/anandtopu/sentinal-rag)
+> Multi-tenant, RBAC-aware, evaluation-driven enterprise RAG platform
+
+Production-shaped RAG with **pgvector hybrid retrieval**, **layered hallucination detection**, **immutable audit**, **per-tenant cost budgets**, multi-cloud Terraform, Helm + ArgoCD, k6 + Chaos Mesh resilience tests, and 30 ADRs explaining every non-obvious decision.
+
+`Python` `FastAPI` `Temporal` `PostgreSQL` `pgvector` `Redis` `Helm` `ArgoCD` `Terraform` `Kubernetes`
+
+---
+
+#### 🔬 [QA Insight AI](https://github.com/anandtopu/qainsight-ai)
 > 360° AI-powered software testing intelligence platform
 
-A production-grade platform that ingests test results from 50+ frameworks, correlates failures using a **LangChain ReAct multi-agent network**, and delivers structured root-cause analysis. Air-gapped LLM support via Ollama, OpenShift/Kubernetes native.
+Production-grade platform that ingests test results from 50+ frameworks, correlates failures using a **LangChain ReAct multi-agent network**, and delivers structured root-cause analysis. Air-gapped LLM support via Ollama, OpenShift/Kubernetes native.
 
 `Python` `FastAPI` `LangChain` `LangGraph` `PostgreSQL` `MongoDB` `Redis` `ChromaDB` `React` `Kubernetes`
 
 ---
 
-### 🤖 [Python AI Agents Demo](https://github.com/anandtopu/python-ai-agents-demo)
-> Python CLI demonstrating real-world AI Agent use cases
+#### 🔎 [TestLookup](https://github.com/anandtopu/testlookup)
+> Local-first test failure intelligence for CI pipelines and QA teams
 
-Hands-on reference implementation of agentic patterns — tool use, multi-step reasoning, and ReAct loops — using Python and leading LLM frameworks.
+Turns raw automated test results (JUnit, pytest, TestNG, Allure, Cypress, Playwright, …) into actionable failure intelligence and release-risk signals (GO / CONDITIONAL_GO / NO_GO). Local-first, offline-capable, exposed via API / CLI / UI / **MCP**.
+
+`Python` `TypeScript` `MCP` `Ollama` `Docker Compose` `Kubernetes`
+
+---
+
+#### 🧩 [AgentMemory](https://github.com/anandtopu/AgentMemory)
+> Guides & deep dives on memory-augmented AI agent systems
+
+A growing collection of practical articles, code examples, and Mermaid diagrams on building production-grade agent memory — short-term, long-term, episodic, and semantic.
+
+`Mermaid` `Documentation` `AI Agents`
+
+---
+
+#### 🤖 [Building AI Agents](https://github.com/anandtopu/BuildingAIAgents)
+> Designing agentic systems with LangChain
+
+Reference patterns for tool-use, planning, multi-step reasoning, and agent composition.
+
+`Python` `LangChain` `LangGraph`
+
+---
+
+#### 🐍 [PydanticAI Practice](https://github.com/anandtopu/pydantic-ai-practice)
+> Practical, runnable tutorial for learning PydanticAI
+
+Hands-on examples covering type-safe agents, dependency injection, structured outputs, and streaming.
+
+`Python` `PydanticAI`
+
+---
+
+#### 🧪 [Python AI Agents Demo](https://github.com/anandtopu/python-ai-agents-demo)
+> Reference implementation of agentic patterns
+
+Hands-on CLI demonstrating tool use, multi-step reasoning, and ReAct loops.
 
 `Python` `LangChain` `AI Agents` `CLI`
 
 ---
 
-### ⚙️ [Distributed Job Scheduler](https://github.com/anandtopu/job-scheduler)
+### ⚙️ Distributed Systems & Platform Engineering
+
+#### 📅 [Distributed Job Scheduler](https://github.com/anandtopu/job-scheduler)
 > Production-grade distributed job scheduling system
 
-Designed for high-throughput workloads with fault tolerance, distributed locking, and horizontal scaling.
+High-throughput workloads with fault tolerance, distributed locking, and horizontal scaling.
 
 `Python` `FastAPI` `Cassandra` `Redis` `Distributed Systems`
 
 ---
 
-### 🌐 [Web Crawler](https://github.com/anandtopu/web-crawler)
+#### 🚀 [Distributed Cache (Go)](https://github.com/anandtopu/Distributed-Cache)
+> Distributed cache implementation in Go
+
+Polyglot exploration of consistent hashing, replication, and failure handling.
+
+`Go` `Distributed Systems`
+
+---
+
+#### 🌐 [Web Crawler](https://github.com/anandtopu/web-crawler)
 > Scalable web crawler with a management UI
 
 Internet-scale crawler with a TypeScript web UI for job management, monitoring, and control.
@@ -364,21 +431,41 @@ Internet-scale crawler with a TypeScript web UI for job management, monitoring, 
 
 ---
 
-### 🔗 [URL Shortener — Briefly](https://github.com/anandtopu/Briefly)
+#### 🔗 [Briefly — URL Shortener](https://github.com/anandtopu/Briefly)
 > URL shortening service with analytics
 
-Production-ready URL shortener with click analytics, built as a system design reference implementation.
+Production-ready URL shortener with click analytics, built as a system-design reference implementation.
 
 `Python` `FastAPI` `System Design`
 
 ---
 
-### 🛡️ [Distributed Rate Limiter](https://github.com/anandtopu/rate-limiter)
+#### 🛡️ [Distributed Rate Limiter](https://github.com/anandtopu/rate-limiter)
 > High-performance distributed rate limiting in Python
 
-Token-bucket and sliding-window rate limiting algorithms implemented for distributed API gateways.
+Token-bucket and sliding-window algorithms for distributed API gateways.
 
 `Python` `Redis` `Distributed Systems`
+
+---
+
+#### 💳 [Payment System](https://github.com/anandtopu/payment-system)
+> Payment system demo application
+
+System-design reference for transactional flows, idempotency, and reconciliation.
+
+`TypeScript` `System Design`
+
+---
+
+### 📚 Learning & Knowledge
+
+- 🗺️ [**AIEngineer**](https://github.com/anandtopu/AIEngineer) — roadmap to AI Engineer interview preparation
+- 🧮 [**Vector Databases**](https://github.com/anandtopu/vector-databases) — hands-on with embeddings, indexes, and retrieval
+- 🧱 [**Redis Practice**](https://github.com/anandtopu/redis-practice) — real-world Redis patterns and troubleshooting
+- 📓 [**100 Days of Machine Learning**](https://github.com/anandtopu/100DaysOfMachineLearning) — ML fundamentals practice
+- 🤖 [**Web UI Automation**](https://github.com/anandtopu/web-ui-automation) · [**API Automation**](https://github.com/anandtopu/api-automation) — automation toolkits
+- 🧠 [**NeetCode Submissions**](https://github.com/anandtopu/neetcode-submissions) — algorithmic problem solving
 
 ---
 
@@ -386,13 +473,13 @@ Token-bucket and sliding-window rate limiting algorithms implemented for distrib
 
 <div align="center">
 
-<!-- Contribution Streak — demolab (highly reliable) -->
+<!-- Contribution Streak -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=anandtopu&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<!-- Activity Graph — reliable Vercel deployment -->
+<!-- Activity Graph -->
 [![Anand's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anandtopu&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- Profile Summary Cards — alternative to readme-stats -->
+<!-- Profile Summary -->
 [![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anandtopu&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <table>
@@ -414,6 +501,9 @@ Token-bucket and sliding-window rate limiting algorithms implemented for distrib
   </tr>
 </table>
 
+<!-- GitHub Trophy -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=anandtopu&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
@@ -421,11 +511,12 @@ Token-bucket and sliding-window rate limiting algorithms implemented for distrib
 ## What I'm Focused On
 
 ```text
-🏗️  Architecting multi-agent AI systems for enterprise
-🔭  Context engineering & RAG pipeline optimization
+🛡️  Production RAG — multi-tenancy, hallucination detection, cost budgets, audit
+🧠  Multi-agent orchestration — LangGraph, Anthropic Agent SDK, A2A protocol
+🧩  MCP server development — exposing tools and data to agents safely
+🔭  Context engineering & evaluation-driven AI delivery
 📡  AI observability — tracing, evals, and monitoring at scale
-🧩  MCP (Model Context Protocol) server development
-🌐  OpenShift-native AI platform deployments
+🌐  OpenShift / Kubernetes-native AI platform deployments
 ```
 
 ---
