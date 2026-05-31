@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>README preview · anandtopu</title>
+<script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+<style>
+  body { margin:0; background:#010409; font-family: -apple-system, "Segoe UI", system-ui, sans-serif; }
+  .bar { position:sticky; top:0; z-index:5; display:flex; align-items:center; gap:10px; padding:10px 18px; background:#0d1117; border-bottom:1px solid #21262d; color:#8593a3; font-size:13px; }
+  .bar b { color:#e8edf4; }
+  .bar .live { margin-left:auto; display:inline-flex; align-items:center; gap:7px; color:#34D399; font-family: ui-monospace, monospace; font-size:12px; }
+  .bar .live::before { content:""; width:7px; height:7px; border-radius:50%; background:#34D399; }
+  .frame { max-width:920px; margin:26px auto; background:#0d1117; border:1px solid #21262d; border-radius:12px; overflow:hidden; }
+  .frame-head { display:flex; align-items:center; gap:8px; padding:14px 18px; border-bottom:1px solid #21262d; color:#8593a3; font-size:13px; font-family: ui-monospace, monospace; }
+  .frame-head .ic { width:16px; height:16px; color:#8593a3; }
+  .md { padding:8px 40px 44px; color:#c9d1d9; font-size:16px; line-height:1.6; }
+  /* GitHub-markdown-ish dark */
+  .md h1,.md h2,.md h3,.md h4 { color:#e6edf3; border:0; margin:24px 0 14px; line-height:1.25; }
+  .md h1 { font-size:30px; font-weight:800; letter-spacing:-.02em; }
+  .md h2 { font-size:21px; padding-bottom:.3em; border-bottom:1px solid #21262d; font-weight:700; }
+  .md h3 { font-size:17px; color:#adbac7; }
+  .md h4 { font-size:16px; }
+  .md h1 code,.md h2 code,.md h3 code { background:#0e2a20; color:#34D399; padding:1px 8px; border-radius:6px; font-size:.78em; }
+  .md a { color:#2f81f7; text-decoration:none; }
+  .md a:hover { text-decoration:underline; }
+  .md hr { border:0; border-top:1px solid #21262d; margin:24px 0; }
+  .md img { vertical-align:middle; margin:2px 3px; }
+  .md p { margin:10px 0; }
+  .md code { background:#1b2230; color:#c9d1d9; padding:.2em .4em; border-radius:6px; font-size:85%; font-family: ui-monospace, "SF Mono", monospace; }
+  .md pre { background:#0b0f15; border:1px solid #21262d; border-radius:8px; padding:16px; overflow:auto; }
+  .md pre code { background:none; color:#9fb6c4; padding:0; font-size:13px; line-height:1.7; }
+  .md blockquote { margin:12px 0; padding:.4em 1em; color:#8b949e; border-left:3px solid #2d7d5a; background:#0e1b15; border-radius:0 6px 6px 0; }
+  .md table { border-collapse:collapse; margin:14px 0; display:block; overflow:auto; }
+  .md th,.md td { border:1px solid #21262d; padding:8px 14px; }
+  .md th { background:#161b22; color:#e6edf3; }
+  .md tr:nth-child(2n) td { background:#0f141b; }
+  .md details { margin:12px 0; border:1px solid #21262d; border-radius:8px; padding:6px 14px; background:#0f141b; }
+  .md summary { cursor:pointer; color:#adbac7; font-weight:600; padding:6px 0; }
+  .md div[align="center"] { text-align:center; }
+</style>
+</head>
+<body>
+<div class="bar"><b>github.com</b> / anandtopu / <b>anandtopu</b> &nbsp;·&nbsp; profile README (rendered preview) <span class="live">live preview</span></div>
+<div class="frame">
+  <div class="frame-head">
+    <svg class="ic" viewBox="0 0 16 16" fill="currentColor"><path d="M0 1.75A.75.75 0 0 1 .75 1h4.253c1.227 0 2.317.59 3 1.501A3.743 3.743 0 0 1 11.006 1h4.245a.75.75 0 0 1 .75.75v10.5a.75.75 0 0 1-.75.75h-4.507a2.25 2.25 0 0 0-1.591.659l-.622.621a.75.75 0 0 1-1.06 0l-.622-.621A2.25 2.25 0 0 0 5.258 13H.75a.75.75 0 0 1-.75-.75Zm7.251 10.324.004-5.073-.002-2.253A2.25 2.25 0 0 0 5.003 2.5H1.5v9h3.757a3.75 3.75 0 0 1 1.994.574ZM8.755 4.75l-.004 7.322a3.752 3.752 0 0 1 1.992-.572H14.5v-9h-3.495a2.25 2.25 0 0 0-2.25 2.25Z"></path></svg>
+    README.md
+  </div>
+  <div class="md" id="md">Loading…</div>
+</div>
+<script>
+  fetch('README.md').then(r=>r.text()).then(t=>{
+    marked.setOptions({ gfm:true, breaks:false });
+    document.getElementById('md').innerHTML = marked.parse(t);
+  }).catch(e=>{ document.getElementById('md').textContent = 'Could not load README.md — '+e; });
+</script>
+</body>
+</html>
